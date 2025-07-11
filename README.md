@@ -1,16 +1,24 @@
 # my-python-lessons
-hi😆 im just a guy who love programming,
-I'm at the beginning of this journey,
-I'm learning python,
-i don't know very much about programming,
-so I'm sorry if you see something wrong,
-all the files in this repo was made by me,
-so
 
-my name is mahmood,
-from iraq,
-you can call me BLX,
-I study at the Institute of Fine Arts at Iraq-Baghdad,
-and I love anime😅
+Hi 😆 I'm just a guy who loves programming.
 
-so yeah your welcome
+I'm still at the beginning of this journey and learning Python step by step.  
+I don't know very much about programming yet, so I'm sorry if you find something wrong.
+
+All the files in this repo were made by me, with passion and curiosity!
+
+---
+
+### 🧠 About Me
+
+- My name is Mahmood
+- From Iraq 🇮🇶
+- You can call me **BLX**
+- I study at the *Institute of Fine Arts* in Baghdad
+- my discord username **j.s.g.e**
+- And yes... I love anime 😅 (especially Bleach 👊)
+
+---
+
+Thanks for visiting this repo.  
+**You're welcome!**
