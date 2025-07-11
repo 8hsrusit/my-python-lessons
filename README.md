@@ -4,6 +4,7 @@ I'm at the beginning of this journey
 I'm learning python 
 i don't know very much about programming
 so I'm sorry if you see something wrong 
+all the files in this repo was made by me
 so
 
 my name is mahmood 
