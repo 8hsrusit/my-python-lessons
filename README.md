@@ -13,7 +13,7 @@ All the files in this repo were made by me, with passion and curiosity!
 
 - My name is Mahmood
 - From Iraq 🇮🇶
-- You can call me **BLX**
+- You can call me **Iris**
 - I study at the *Institute of Fine Arts* in Baghdad
 - my discord username **j.s.g.e**
 - And yes... I love anime 😅 (especially Bleach 👊)
